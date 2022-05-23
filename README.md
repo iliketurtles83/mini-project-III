@@ -1,6 +1,8 @@
 # mini-project-III
 Repo with the instructions for the Mini Project III.
 
+Finished 1, 2 and 3 - JK
+
 
 ### Topics
 This mini project is dedicated to following topics:
